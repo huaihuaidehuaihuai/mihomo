@@ -15,7 +15,7 @@ payload:
   - DOMAIN-SUFFIX,xiaomi.eu
   - DOMAIN-KEYWORD,188channel
   - DOMAIN-KEYWORD,fuqing
-  - DOMAIN-KEYWORD,notepad-plus-plus.org
+  - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,bygcloud.com
   - DOMAIN-SUFFIX,iwara.tv
   - DOMAIN-SUFFIX,laowang.vip
